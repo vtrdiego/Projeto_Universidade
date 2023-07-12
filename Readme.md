@@ -10,9 +10,9 @@ banco de dados (xampp) para o armazenamento das informações.
 - Tela de Registro (Matrícular aluno).
 - Tela de Confguração (Alterar Login e/ou Senha).
 
-- Tela de Consultas:
-  Consulta matrículas individuais, ou todas as matrículas.
-  É possível deletar matrícula individual, ou todas amatrículas.
+- Tela de Consultas:<br>
+  Consulta matrículas individuais, ou todas as matrículas.<br>
+  É possível deletar matrícula individual, ou todas amatrículas.<br>
   É possível alterar o curso de uma matrícula individual.
 
  == Tratamento de erros ==
